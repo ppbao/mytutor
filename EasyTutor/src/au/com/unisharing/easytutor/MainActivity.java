@@ -12,6 +12,7 @@ public class MainActivity extends ActionBarActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		//developed by bruce
+		//push to upstream
 	}
 
 	@Override
