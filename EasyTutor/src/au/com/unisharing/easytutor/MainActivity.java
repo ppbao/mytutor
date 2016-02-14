@@ -13,6 +13,7 @@ public class MainActivity extends ActionBarActivity {
 		setContentView(R.layout.activity_main);
 		//developed by bruce
 		//push to upstream
+		//pull from github
 	}
 
 	@Override
